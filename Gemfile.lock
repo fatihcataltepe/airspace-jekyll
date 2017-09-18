@@ -60,7 +60,7 @@ DEPENDENCIES
   bundler
   jekyll
   rack-jekyll
-  rake (~> 10.0)
+  rake
 
 RUBY VERSION
    ruby 2.4.0p0
